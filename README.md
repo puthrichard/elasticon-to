@@ -1,2 +1,1 @@
-# elasticon-to
-Slides for elasticon toronto
+Slides for elasticon TO
